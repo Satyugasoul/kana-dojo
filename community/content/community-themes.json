@@ -331,15 +331,9 @@
     "secondaryColor": "oklch(75.0% 0.085 85.0 / 1)"
   },
   {
-  "id": "sakura-storm",
-  "backgroundColor": "oklch(90.0% 0.032 340.0 / 1)",
-  "mainColor": "oklch(70.0% 0.185 345.0 / 1)",
-  "secondaryColor": "oklch(55.0% 0.145 350.0 / 1)"
-},
-{
-  "id": "neon-arcade",
-  "backgroundColor": "oklch(13.0% 0.055 300.0 / 1)",
-  "mainColor": "oklch(78.0% 0.220 330.0 / 1)",
-  "secondaryColor": "oklch(82.0% 0.185 190.0 / 1)"
-}
+    "id": "sakura-storm",
+    "backgroundColor": "oklch(90.0% 0.032 340.0 / 1)",
+    "mainColor": "oklch(70.0% 0.185 345.0 / 1)",
+    "secondaryColor": "oklch(55.0% 0.145 350.0 / 1)"
+  }
 ]
