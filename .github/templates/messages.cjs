@@ -326,7 +326,7 @@ module.exports = {
       vibeLabel: '💡 **Vibe:**',
       file: 'community/content/community-themes.json',
       itemType: 'theme',
-      prTitle: 'feat(theme): add {name} theme',
+      prTitle: 'theme: add {name} theme',
       // Theme has unique step2 and step3
       step2:
         'Scroll to the bottom of the file and paste the following theme object just before the closing `]`:',
