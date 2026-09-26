@@ -168,12 +168,6 @@
     "meaning": "Miss the bigger picture"
   },
   {
-    "japanese": "三日坊主",
-    "romaji": "Mikka bouzu",
-    "english": "A three-day monk",
-    "meaning": "Someone who quits quickly"
-  },
-  {
     "japanese": "柳に風",
     "romaji": "Yanagi ni kaze",
     "english": "Wind in the willow",
@@ -491,10 +485,10 @@
   "english": "Early rising brings three coins of benefit",
   "meaning": "Wake early for advantage"
 },
-  {
-  "japanese": "七転び八起き",
-  "romaji": "Nanakorobi yaoki",
-  "english": "Fall seven times, get up eight",
-  "meaning": "Never give up"
+{
+  "japanese": "三日坊主",
+  "romaji": "Mikka bouzu",
+  "english": "A three-day monk",
+  "meaning": "Someone who quits quickly"
 }
 ]
