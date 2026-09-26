@@ -523,6 +523,26 @@
     "english": "Only those prepared to be shot should pull the trigger. (alt wording 45)",
     "anime": "Code Geass: Lelouch of the Rebellion",
     "character": "Lelouch vi Britannia"
-  }
-
+  },
+  {
+    "japanese": "おれは人間を超越する！",
+    "romaji": "Ore wa ningen o chouetsu suru!",
+    "english": "I will transcend humanity!",
+    "anime": "JoJo's Bizarre Adventure: Battle Tendency",
+    "character": "Kars"
+  },
+  
+{
+"japanese": "仲間を大切にしない奴はそれ以上のクズだ",
+"romaji": "Nakama o taisetsu ni shinai yatsu wa sore ijou no kuzu da",
+"english": "Those who don't take care of their comrades are worse than scum.",
+"anime": "Naruto",
+"character": "Kakashi Hatake"
+},{
+  "japanese": "俺はガンダムだ！",
+  "romaji": "Ore wa Gandamu da!",
+  "english": "I am Gundam! (alt wording 25) (alt wording 77)",
+  "anime": "Mobile Suit Gundam 00",
+  "character": "Setsuna F. Seiei"
+}
 ]
